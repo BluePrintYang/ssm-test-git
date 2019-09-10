@@ -27,12 +27,7 @@ public class AccountController {
     private AccountService accountService;
 
     @RequestMapping("/findAll")
-    public String findAll(Model model) {
-        System.out.println("表现层：查询所有账户...");
-        // 调用service的方法
-        List<Account> list = accountService.findAll();
-        model.addAttribute("list", list);
-        return "list";
+
     }
 
     /**

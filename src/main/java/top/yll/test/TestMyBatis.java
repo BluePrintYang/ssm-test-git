@@ -1,8 +1,8 @@
-package cn.itcast.test;
+package top.yll.test;
 
-import cn.itcast.dao.AccountDao;
-import cn.itcast.domain.Account;
-import cn.itcast.domain.Semester;
+import top.yll.dao.AccountDao;
+import top.yll.domain.Account;
+import top.yll.domain.Semester;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;

@@ -1,7 +1,7 @@
-package cn.itcast.test;
+package top.yll.test;
 
 
-import cn.itcast.domain.Semester;
+import top.yll.domain.Semester;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

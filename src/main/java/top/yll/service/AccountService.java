@@ -1,7 +1,7 @@
-package cn.itcast.service;
+package top.yll.service;
 
-import cn.itcast.domain.Account;
-import cn.itcast.domain.Semester;
+import top.yll.domain.Account;
+import top.yll.domain.Semester;
 
 import java.util.List;
 

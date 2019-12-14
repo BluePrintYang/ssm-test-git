@@ -1,9 +1,9 @@
-package cn.itcast.service.impl;
+package top.yll.service.impl;
 
-import cn.itcast.dao.AccountDao;
-import cn.itcast.domain.Account;
-import cn.itcast.domain.Semester;
-import cn.itcast.service.AccountService;
+import top.yll.dao.AccountDao;
+import top.yll.domain.Account;
+import top.yll.domain.Semester;
+import top.yll.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
-package cn.itcast.dao;
+package top.yll.dao;
 
-import cn.itcast.domain.Account;
-import cn.itcast.domain.Semester;
+import top.yll.domain.Account;
+import top.yll.domain.Semester;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Select;
 import org.springframework.stereotype.Repository;

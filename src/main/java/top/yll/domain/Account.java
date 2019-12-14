@@ -1,4 +1,4 @@
-package cn.itcast.domain;
+package top.yll.domain;
 
 import java.io.Serializable;
 
